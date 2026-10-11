@@ -1,0 +1,5 @@
+Employee Payroll
+Company: ABC Technologies
+Name: Anjali
+Employee ID: 34687874
+Net Salary: Rs. 4400.0
